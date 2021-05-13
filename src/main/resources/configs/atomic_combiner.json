@@ -1,0 +1,209 @@
+{
+  "recipes": [
+    {
+      "output": {
+        "item": "atomic:petrified_sapling",
+        "amount": 1
+      },
+      "input": {
+        "#c:petrifiers": 1,
+        "#c:saplings": 1
+      }
+    },
+    {
+      "output": {
+        "item": "atomic:petrified_log",
+        "amount": 1
+      },
+      "input": {
+        "#c:petrifiers": 1,
+        "#c:logs": 1
+      }
+    },
+    {
+      "output": {
+        "item": "atomic:petrified_planks",
+        "amount": 1
+      },
+      "input": {
+        "#c:petrifiers": 1,
+        "#c:planks": 1
+      }
+    },
+    {
+      "output": {
+        "item": "atomic:petrified_leaves",
+        "amount": 1
+      },
+      "input": {
+        "#c:petrifiers": 1,
+        "#c:leaves": 1
+      }
+    },
+
+    {
+      "output": {
+        "item": "atomic:iron_sapling",
+        "amount": 1
+      },
+      "input": {
+        "minecraft:iron_ingot": 1,
+        "#c:saplings": 1
+      }
+    },
+    {
+      "output": {
+        "item": "atomic:iron_log",
+        "amount": 1
+      },
+      "input": {
+        "minecraft:iron_ingot": 1,
+        "#c:logs": 1
+      }
+    },
+    {
+      "output": {
+        "item": "atomic:iron_planks",
+        "amount": 1
+      },
+      "input": {
+        "minecraft:iron_ingot": 1,
+        "#c:planks": 1
+      }
+    },
+    {
+      "output": {
+        "item": "atomic:iron_leaves",
+        "amount": 1
+      },
+      "input": {
+        "minecraft:iron_ingot": 1,
+        "#c:leaves": 1
+      }
+    },
+    
+    {
+      "output": {
+        "item": "atomic:gold_sapling",
+        "amount": 1
+      },
+      "input": {
+        "minecraft:gold_ingot": 1,
+        "#c:saplings": 1
+      }
+    },
+    {
+      "output": {
+        "item": "atomic:gold_log",
+        "amount": 1
+      },
+      "input": {
+        "minecraft:gold_ingot": 1,
+        "#c:logs": 1
+      }
+    },
+    {
+      "output": {
+        "item": "atomic:gold_planks",
+        "amount": 1
+      },
+      "input": {
+        "minecraft:gold_ingot": 1,
+        "#c:planks": 1
+      }
+    },
+    {
+      "output": {
+        "item": "atomic:gold_leaves",
+        "amount": 1
+      },
+      "input": {
+        "minecraft:gold_ingot": 1,
+        "#c:leaves": 1
+      }
+    },
+    
+    {
+      "output": {
+        "item": "atomic:diamond_sapling",
+        "amount": 1
+      },
+      "input": {
+        "minecraft:diamond": 1,
+        "#c:saplings": 1
+      }
+    },
+    {
+      "output": {
+        "item": "atomic:diamond_log",
+        "amount": 1
+      },
+      "input": {
+        "minecraft:diamond": 1,
+        "#c:logs": 1
+      }
+    },
+    {
+      "output": {
+        "item": "atomic:diamond_planks",
+        "amount": 1
+      },
+      "input": {
+        "minecraft:diamond": 1,
+        "#c:planks": 1
+      }
+    },
+    {
+      "output": {
+        "item": "atomic:diamond_leaves",
+        "amount": 1
+      },
+      "input": {
+        "minecraft:diamond": 1,
+        "#c:leaves": 1
+      }
+    },
+    
+    {
+      "output": {
+        "item": "atomic:emerald_sapling",
+        "amount": 1
+      },
+      "input": {
+        "minecraft:emerald": 1,
+        "#c:saplings": 1
+      }
+    },
+    {
+      "output": {
+        "item": "atomic:emerald_log",
+        "amount": 1
+      },
+      "input": {
+        "minecraft:emerald": 1,
+        "#c:logs": 1
+      }
+    },
+    {
+      "output": {
+        "item": "atomic:emerald_planks",
+        "amount": 1
+      },
+      "input": {
+        "minecraft:emerald": 1,
+        "#c:planks": 1
+      }
+    },
+    {
+      "output": {
+        "item": "atomic:emerald_leaves",
+        "amount": 1
+      },
+      "input": {
+        "minecraft:emerald": 1,
+        "#c:leaves": 1
+      }
+    }
+
+  ]
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+            "model": "atomic:block/iron_sapling"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+  "item.atomic.atomic_combiner": "Atomic Combiner",
+  "item.atomic.atomic_compressor": "Atomic Compressor",
+
+  "item.atomic.petrified_sapling": "Petrified Sapling",
+  "item.atomic.petrified_log": "Petrified Log",
+  "item.atomic.petrified_leaves": "Petrified Leaves",
+  "item.atomic.petrified_planks": "Petrified Planks",
+
+  "item.atomic.iron_sapling": "Iron Sapling",
+  "item.atomic.iron_log": "Iron Log",
+  "item.atomic.iron_leaves": "Iron Leaves",
+  "item.atomic.iron_planks": "Iron Planks",
+
+  "item.atomic.gold_sapling": "Gold Sapling",
+  "item.atomic.gold_log": "Gold Log",
+  "item.atomic.gold_leaves": "Gold Leaves",
+  "item.atomic.gold_planks": "Gold Planks",
+
+  "item.atomic.diamond_sapling": "Diamond Sapling",
+  "item.atomic.diamond_log": "Diamond Log",
+  "item.atomic.diamond_leaves": "Diamond Leaves",
+  "item.atomic.diamond_planks": "Diamond Planks",
+
+  "item.atomic.emerald_sapling": "Emerald Sapling",
+  "item.atomic.emerald_log": "Emerald Log",
+  "item.atomic.emerald_leaves": "Emerald Leaves",
+  "item.atomic.emerald_planks": "Emerald Planks",
+
+  "item.atomic.compressed_obsidian": "Compressed Obsidian",
+
+  "block.atomic.atomic_compressor": "Atomic Compressor",
+
+  "block.atomic.petrified_sapling": "Petrified Sapling",
+  "block.atomic.petrified_log": "Petrified Log",
+  "block.atomic.petrified_leaves": "Petrified Leaves",
+  "block.atomic.petrified_planks": "Petrified Planks",
+
+  "block.atomic.iron_sapling": "Iron Sapling",
+  "block.atomic.iron_log": "Iron Log",
+  "block.atomic.iron_leaves": "Iron Leaves",
+  "block.atomic.iron_planks": "Iron Planks",
+
+  "block.atomic.gold_sapling": "Gold Sapling",
+  "block.atomic.gold_log": "Gold Log",
+  "block.atomic.gold_leaves": "Gold Leaves",
+  "block.atomic.gold_planks": "Gold Planks",
+
+  "block.atomic.diamond_sapling": "Diamond Sapling",
+  "block.atomic.diamond_log": "Diamond Log",
+  "block.atomic.diamond_leaves": "Diamond Leaves",
+  "block.atomic.diamond_planks": "Diamond Planks",
+
+  "block.atomic.emerald_sapling": "Emerald Sapling",
+  "block.atomic.emerald_log": "Emerald Log",
+  "block.atomic.emerald_leaves": "Emerald Leaves",
+  "block.atomic.emerald_planks": "Emerald Planks",
+
+  "block.atomic.compressed_obsidian": "Compressed Obsidian",
+
+  "itemGroup.atomic.atomic": "Atomic Combiner",
+
+  "container.atomic.atomic_combiner": "Atomic Combiner"
+}

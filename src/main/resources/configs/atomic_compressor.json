@@ -1,0 +1,5 @@
+{
+  "recipes": {
+    "minecraft:obsidian": "atomic:compressed_obsidian"
+  }
+}

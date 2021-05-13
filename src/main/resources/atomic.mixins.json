@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "wraith.atomic.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "ItemRendererMixin",
+    "LivingEntityMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

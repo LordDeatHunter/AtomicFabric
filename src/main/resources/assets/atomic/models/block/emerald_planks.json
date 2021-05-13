@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "atomic:block/emerald_planks"
+    }
+}

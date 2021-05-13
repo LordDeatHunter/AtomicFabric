@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "atomic",
+  "version": "${version}",
+
+  "name": "Atomic",
+  "description": "Take matter into your own hands!",
+  "authors": [
+    "LordDeatHunter"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "MIT",
+  "icon": "assets/atomic.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "wraith.atomic.Atomic"
+    ],
+    "client": [
+      "wraith.atomic.AtomicClient"
+    ]
+  },
+  "mixins": [
+    "atomic.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  }
+}

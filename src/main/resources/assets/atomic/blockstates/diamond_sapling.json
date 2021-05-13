@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+            "model": "atomic:block/diamond_sapling"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "atomic:block/atomic_compressor",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "atomic:block/atomic_compressor",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "atomic:block/atomic_compressor",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "atomic:block/atomic_compressor",
+      "x": 270
+    },
+    "facing=up": {
+      "model": "atomic:block/atomic_compressor"
+    },
+    "facing=west": {
+      "model": "atomic:block/atomic_compressor",
+      "x": 90,
+      "y": 270
+    }
+  }
+}
